@@ -1,1 +1,1 @@
-# MohamedAmmarAI-AutoML-App-using-Pycaret
+# AutoML-App-using-Pycaret
