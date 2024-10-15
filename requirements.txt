@@ -1,0 +1,7 @@
+python-distutils
+seaborn
+pycaret==3.2
+pandas
+streamlit==1.25.0
+numpy
+ 
