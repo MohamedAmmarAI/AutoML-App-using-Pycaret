@@ -1,4 +1,4 @@
-python-distutils
+#python-distutils
 seaborn
 pycaret>=3.2
 pandas
